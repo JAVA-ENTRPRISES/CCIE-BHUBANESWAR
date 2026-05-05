@@ -80,17 +80,23 @@ nav ul li a:hover {
 /* ================= HERO ================= */
 
 .hero {
-    height: 40vh;
+    min-height: 60vh;
     background: linear-gradient(135deg, var(--primary), var(--secondary));
-    margin: 20px;
+    margin: 20px auto;   /* 👈 THIS centers the box */
     border-radius: 30px;
+
+    max-width: 1100px;   /* controls width */
+    width: 90%;          /* responsive */
+
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    color: white;
-    text-align: center;
-}
 
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
 .hero h1 { 
     font-size: 3rem; 
     letter-spacing: -1px; 
