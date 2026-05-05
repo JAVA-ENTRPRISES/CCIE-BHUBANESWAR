@@ -1,5 +1,5 @@
 const schoolName = "CHILDREN'S CENTRE OF INTEGRAL EDUCATION";
-const logoPath = "images/school-logo.png";
+const logoPath = "image/logo.jpeg";
 
 // Inject Header
 const headerHTML = `
