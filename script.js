@@ -1,4 +1,4 @@
-const schoolName = "CHILDRENS INTEGRATED SCHOOL";
+const schoolName = "CHILDREN'S CENTRE OF INTEGRAL EDUCATION";
 const logoPath = "images/school-logo.png";
 
 // Inject Header
@@ -44,8 +44,8 @@ const footerHTML = `
     <div class="contact-footer">
         <h3>Visit Us</h3>
         <p>Bhubaneswar, Odisha, India</p>
-        <p>Email: info@childrensintegrated.edu</p>
-        <p>Phone: +91 98765 43210</p>
+        <p>Email: cciebhubaneswar@gmail.com</p>
+        <p>Phone: +91 9437001438</p>
     </div>
 </footer>
 <div style="text-align:center; background:#1e272e; color:#888; padding:10px; font-size:12px;">
